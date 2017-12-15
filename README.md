@@ -9,3 +9,7 @@ So we need actually an application that will hold these windows side by side and
 ![image](https://user-images.githubusercontent.com/6639874/34055183-20574e76-e1df-11e7-9e29-3cf3ff5a7a51.png)
 
 These panes will be controlled like how Blender does. 
+
+# TODO
+
+This project is waiting for resolution of [this problem](https://stackoverflow.com/questions/29948105/how-to-embed-an-application-into-another-application-dynamically).
