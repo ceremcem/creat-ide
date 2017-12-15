@@ -38,6 +38,6 @@ These panes will be controlled like how Blender does:
 ![detachwindows](https://user-images.githubusercontent.com/6639874/34056304-8594d002-e1e3-11e7-95b8-c5f3b4c6a25e.gif)
 
 
-# TODO
+# Status
 
 This project is waiting for resolution of [this problem](https://stackoverflow.com/questions/29948105/how-to-embed-an-application-into-another-application-dynamically).
