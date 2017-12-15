@@ -19,9 +19,11 @@ You will possibly need another layout for updating your server, possibly with SS
 # Problem
 
 There is no IDE that puts all these together. You will have to use different applications for each purpose, open them simultaneously and precisely adjust the placement of these windows side by side. You have to 
+
 - open every single application (there is [service-runner](https://github.com/aktos-io/service-runner) for that purpose though)
 - adjust window sizes accordingly
-whenever you start your project. 
+
+whenever you start your project and close every single application when you stop your development. 
 
 If you want to resize a window, you will have to resize the neighbours.
 
