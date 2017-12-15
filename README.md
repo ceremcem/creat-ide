@@ -33,7 +33,10 @@ So we need actually an application that will hold these windows and hopefully cr
 
 ![image](https://user-images.githubusercontent.com/6639874/34055183-20574e76-e1df-11e7-9e29-3cf3ff5a7a51.png)
 
-These panes will be controlled like how Blender does. 
+These panes will be controlled like [how Blender does](https://www.youtube.com/watch?v=qJOaEV4CYuI):
+
+![image](https://user-images.githubusercontent.com/6639874/34055824-f15f78f2-e1e1-11e7-8d9e-37e255bd95a7.png)
+
 
 # TODO
 
