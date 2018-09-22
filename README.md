@@ -1,4 +1,14 @@
-# creat-ide (DRAFT)
+# Creat-IDE
+
+## Status 
+
+This project is waiting for resolution of: 
+
+* [How to embed an application into another application](https://stackoverflow.com/questions/29948105/how-to-embed-an-application-into-another-application-dynamically).
+* [How to use more than one window manager concurrently?](https://superuser.com/questions/1360453/how-to-use-more-than-one-window-manager-concurrently)
+
+
+## Description 
 
 Every project needs a different type of IDE. If you create a electronic circuit board, that will need a serial port terminal, you will open 
 
@@ -16,7 +26,7 @@ On the other hand, If you need a web application development,
 
 You will possibly need another layout for updating your server, possibly with SSH connection.
 
-# Problem
+## Problem
 
 There is no IDE that puts all these together. You will have to use different applications for each purpose, open them simultaneously and precisely adjust the placement of these windows side by side. You have to 
 
@@ -27,7 +37,7 @@ whenever you start your project and close every single application when you stop
 
 If you want to resize a window, you will have to resize the neighbours.
 
-# Solution 
+## Solution 
 
 So we need actually an application that will hold these windows and hopefully create some workspaces: 
 
@@ -38,6 +48,3 @@ These panes will be controlled like how Blender does:
 ![detachwindows](https://user-images.githubusercontent.com/6639874/34056304-8594d002-e1e3-11e7-95b8-c5f3b4c6a25e.gif)
 
 
-# Status
-
-This project is waiting for resolution of [this problem](https://stackoverflow.com/questions/29948105/how-to-embed-an-application-into-another-application-dynamically).
