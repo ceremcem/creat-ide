@@ -2,10 +2,9 @@
 
 ## Status 
 
-This project is waiting for resolution of: 
+This project is waiting for the application of: https://github.com/ceremcem/creat-ide/issues/1
 
-* [How to embed an application into another application](https://stackoverflow.com/questions/29948105/how-to-embed-an-application-into-another-application-dynamically).
-* [How to use more than one window manager concurrently?](https://superuser.com/questions/1360453/how-to-use-more-than-one-window-manager-concurrently)
+> Former approach: [this](https://stackoverflow.com/questions/29948105/how-to-embed-an-application-into-another-application-dynamically) combined by [that](https://superuser.com/questions/1360453/how-to-use-more-than-one-window-manager-concurrently)
 
 
 ## Description 
@@ -43,7 +42,7 @@ So we need actually an application that will hold these windows and hopefully cr
 
 ![image](https://user-images.githubusercontent.com/6639874/34055183-20574e76-e1df-11e7-9e29-3cf3ff5a7a51.png)
 
-These panes will be controlled like how Blender does:
+These panes will be controlled like Blender:
 
 ![detachwindows](https://user-images.githubusercontent.com/6639874/34056304-8594d002-e1e3-11e7-95b8-c5f3b4c6a25e.gif)
 
