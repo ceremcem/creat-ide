@@ -1,5 +1,18 @@
 # Creat-IDE
 
+## Example POC
+
+```
+python3 workspace-manager.py
+```
+
+TODO: 
+ 1. Launch the selected app
+ 2. Adjust its window size and position accordingly
+ 3. Make the apps follow the creat-ide resize
+ 4. Save the configurations to the workspace
+
+
 ## Status 
 
 This project is waiting for the application of: https://github.com/ceremcem/creat-ide/issues/1
